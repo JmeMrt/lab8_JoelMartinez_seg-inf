@@ -1,0 +1,9 @@
+1.0.0.127.in-addr.arpa PTR py.dns
+test.com 127.0.0.1
+google.com 216.58.204.14
+www.google.com A 216.58.206.100
+lolo.uft.cl A 12.12.12.12
+blue.google.com 12.34.56.78
+google.com TXT Test text record
+google.com NS ns.server.com
+google.com CNAME test.google.com
